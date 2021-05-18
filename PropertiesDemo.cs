@@ -26,6 +26,7 @@ namespace CSharpReference
             }
         }
 
+        // it is by convention that public variables and methods start with an upper case letter
         public string AutoProperty { get; private set; } // can't write to property from outside the class 
     }
 }
