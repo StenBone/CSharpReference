@@ -2,9 +2,9 @@
 
 namespace CSharpReference
 {
-    /**
-     * Properties offer a shorter syntax for encapsulating fields.
-     */
+    /// <summary>
+    /// Properties offer a shorter syntax for encapsulating fields.
+    /// </summary>
     class PropertiesDemo
     {
         #region Fields
