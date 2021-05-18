@@ -11,7 +11,7 @@ namespace CSharpReference {
     /// </summary>
     class DelegatesDemo {
 
-        DelegatesDemo() {
+        public DelegatesDemo() {
             WriteLogDelegate log;
             log = WriteTestString; // point delegate to function
 
