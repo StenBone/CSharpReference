@@ -24,7 +24,7 @@ namespace CSharpReference {
 
 
         // TIP: write how you want to use the method first and then implement it.
-        #region STATE
+        #region BEHAVIOR
         public void PerformBehavior() {
             data = "this new data";
         }

@@ -14,7 +14,6 @@ namespace CSharpReference
             float radius = 2;
             float circumference = 2 * ConstantsDemo.PI * radius;
             
-            // todo STRUCTS DEMO
 
             // FORMAT SPECIFIER DEMO
             // format the output with formatting string
@@ -88,6 +87,34 @@ namespace CSharpReference
             Console.WriteLine($"name is {name}");
             Console.WriteLine();
 
+            // POLYMORPHISM DEMO
+            Console.WriteLine();
+            var pd = new PolymorphismDemo();
+            Console.WriteLine();
+
+            // INTERFACES DEMO
+            Console.WriteLine();
+            var id = new InterfacesDemo();
+            Console.WriteLine();
+
+
+
+            // todo struct demo
+            // todo using demo
+            /*
+             * using tells the compiler that you are using an object within a scope. 
+             * the c# compiler will release and dispose of the object when you reach the last
+             * curly brace or an exception is thrown.
+             */
+            // todo generics demo
+            // todo parrallelism demo
+            // todo nullable refernce types
+            /*
+             * Obj? obj = new Obj;
+             * this says that the obj can hold null values
+             * It says that you are prepared for nulls and have null checks in place
+             */
+            // todo LINQ
 
         }
 
