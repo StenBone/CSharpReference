@@ -1,0 +1,53 @@
+Things that are already covered:
+* Extension Methods
+* XUnit Tests
+* IEnumerable example
+* DateTime
+* 3 a's of testing
+* Filters of IEnumerable
+* Class state and behavior example
+* Class inheritence
+* Constants readonly and const
+* Dumb getters and setters
+* Backing fields
+* Properties
+* Auto Properties
+* Accessing arguements in main
+* string Interpolation
+* object reference
+* pass by value
+* pass by ref
+
+3 a's of testing
+arrange(the data)
+act(on the data)
+assert(the data is a particular state)
+
+OOP
+Encapsulation
+	The level of abstraction
+	(glance test - at a glance can you see what the code is doing) 
+Inheritance
+Polymorphism
+
+Responsibilities and Roles
+	Knowing
+	Deciding
+	Doing
+
+YAGNI - You Ain't Gonna Need It
+KISS - Keep It Simple, Stupid
+
+Template Pattern - Abstract class with concrete inherited classes
+
+Encapsulation is good
+Polymorphism is convient
+Inheritance causes more problems than it solves
+
+Inheritance Critique
+Pro: Code Reuse
+Con: Binds two classes tightly together. A derived class needs to know details about the base class. This creates
+
+Avoid cognitive dissondence
+
+If you don't like the api you see, go off and write the api you want to see in notepad or on a piece of paper.

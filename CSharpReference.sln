@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpReference", "CSharpReference\CSharpReference.csproj", "{7406B220-6C53-4919-9B9F-2428011523C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpReference", "CSharpReference\CSharpReference.csproj", "{7406B220-6C53-4919-9B9F-2428011523C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpReference.Tests", "CSharpReference.Tests\CSharpReference.Tests.csproj", "{3D7800F9-FD06-42A5-959B-6119D252C5F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpReference.Tests", "CSharpReference.Tests\CSharpReference.Tests.csproj", "{3D7800F9-FD06-42A5-959B-6119D252C5F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD1DD762-C1EF-40B9-B7B3-8B9600285070}"
+	ProjectSection(SolutionItems) = preProject
+		notes.txt = notes.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
