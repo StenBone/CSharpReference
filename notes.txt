@@ -51,3 +51,17 @@ Con: Binds two classes tightly together. A derived class needs to know details a
 Avoid cognitive dissondence
 
 If you don't like the api you see, go off and write the api you want to see in notepad or on a piece of paper.
+
+Code should be written so that it takes the least amount of cognitive load to know what it is doing without having information that is repetitive or unessecary.
+
+Scott Allen's 10 Rules
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10. 
